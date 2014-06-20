@@ -1,7 +1,7 @@
 Tinkerforge-IMU-GPS
 ===================
 
-Connects to Tinkerforge IMU and GPS and writes Data to File
+Connects to Tinkerforge [IMU](http://www.tinkerforge.com/de/doc/Hardware/Bricks/IMU_Brick.html) and [GPS](http://www.tinkerforge.com/de/doc/Hardware/Bricklets/GPS.html) and writes Data to file without knowing their UDID.
 
 
 Based on the [Tinkerforge Tutorial](http://www.tinkerforge.com/de/doc/Tutorials/Tutorial_Rugged/Tutorial.html#tutorial-rugged-approach), but without a Class.
